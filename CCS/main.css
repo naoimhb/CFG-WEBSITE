@@ -1,0 +1,48 @@
+*{
+    justify-content: center;
+    font-family: fantasy;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+.trueHeader{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+.navUL{
+    width: 150%;
+    background-color: beige;
+    overflow: auto;
+}
+
+ul{
+    padding:0;
+    margin:0 0 0 150px;
+    list-style: none;
+}
+
+li{
+    float:left;
+}
+.logo img{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+nav a{
+    width: 100px;
+    display: block;
+    padding: 30px 15px;
+    text-decoration: none;
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+
